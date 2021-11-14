@@ -1,0 +1,11 @@
+# DASHBOARD WAKATIME
+
+## NAMA     : SRI KYNANTI
+## NIM      : 1941720063
+## KELAS    : TI-3F
+
+#
+
+## DASHBOARD WAKATIME PERTEMUAN MINGGU KE- 10
+
+![Dashboard Wakatime](img/Dasboard-Flutter10.PNG)
